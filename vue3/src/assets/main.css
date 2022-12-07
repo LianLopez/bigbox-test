@@ -1,0 +1,9 @@
+@import "./base.css";
+
+.n-pagination-item--button {
+  @apply rounded-full bg-primary border-primary text-white !important;
+}
+
+.n-pagination-item--active {
+  @apply rounded-full bg-primary border-primary text-white !important;
+}
