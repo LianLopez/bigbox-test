@@ -19,7 +19,7 @@ const themeOverrides = {
 
 <template>
   <n-config-provider :theme-overrides="themeOverrides">
-    <main class="mx-auto pt-8 md:pt-16 px-5 sm:px-8 max-w-6xl">
+    <main class="mx-auto py-8 md:pt-16 px-5 sm:px-8 max-w-6xl">
       <div></div>
       <RouterView :key="$route.fullPath" />
     </main>

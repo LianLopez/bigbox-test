@@ -3,7 +3,6 @@
     <n-carousel
       :slides-per-view="activitiesVisible"
       :space-between="20"
-      class="mb-40"
       show-arrow
       v-model:current-index="currentSelected"
     >
