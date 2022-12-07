@@ -1,6 +1,6 @@
-# .
+# Big Box Test
 
-This template should help get you started developing with Vue 3 in Vite.
+Examen de bigbox hecho con Vue 2, tailwind y vue-slick-carousel
 
 ## Recommended IDE Setup
 
@@ -17,6 +17,8 @@ npm install
 ```
 
 ### Compile and Hot-Reload for Development
+
+> Before running the project it is necessary to copy the content of the `.env.dev` file and paste it into the `.env`
 
 ```sh
 npm run dev
